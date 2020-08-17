@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="518cfd86-2c67-43ae-84b5-901633601cda" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/nreinas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verificacion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaz.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/interfazlab.py" beforeDir="false" afterPath="$PROJECT_DIR$/interfazlab.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,9 +77,53 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="nreinas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nreinas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nreinas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="verificacion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nreinas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/verificacion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.interfazlab" />
+        <item itemvalue="Python.nreinas" />
+        <item itemvalue="Python.verificacion" />
         <item itemvalue="Python.interfaz" />
       </list>
     </recent_temporary>
@@ -95,25 +142,63 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="256" key="GridCell.Tab.0.bottom" timestamp="1597604372084">
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1597656405417">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="256" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597604372084" />
-    <state width="1345" height="256" key="GridCell.Tab.0.center" timestamp="1597604372084">
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597656405417" />
+    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1597656405417">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="256" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597604372084" />
-    <state width="1345" height="256" key="GridCell.Tab.0.left" timestamp="1597604372083">
+    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597656405417" />
+    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1597656405417">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="256" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597604372083" />
-    <state width="1345" height="256" key="GridCell.Tab.0.right" timestamp="1597604372084">
+    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597656405417" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1597656405417">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="256" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597604372084" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597656405417" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1597656405417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597656405417" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1597656405417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597656405417" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1597656405417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597656405417" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1597656405417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597656405417" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1597595749516">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597595749516" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1597642498664">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597642498664" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/interfazlab.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
