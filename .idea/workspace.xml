@@ -140,22 +140,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="232" key="GridCell.Tab.0.bottom" timestamp="1597688808319">
+    <state width="1345" height="232" key="GridCell.Tab.0.bottom" timestamp="1597689198039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="232" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597688808319" />
-    <state width="1345" height="232" key="GridCell.Tab.0.center" timestamp="1597688808310">
+    <state width="1345" height="232" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597689198039" />
+    <state width="1345" height="232" key="GridCell.Tab.0.center" timestamp="1597689198039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="232" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597688808310" />
-    <state width="1345" height="232" key="GridCell.Tab.0.left" timestamp="1597688808310">
+    <state width="1345" height="232" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597689198039" />
+    <state width="1345" height="232" key="GridCell.Tab.0.left" timestamp="1597689198039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="232" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597688808310" />
-    <state width="1345" height="232" key="GridCell.Tab.0.right" timestamp="1597688808319">
+    <state width="1345" height="232" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597689198039" />
+    <state width="1345" height="232" key="GridCell.Tab.0.right" timestamp="1597689198039">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="232" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597688808319" />
+    <state width="1345" height="232" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597689198039" />
     <state width="1345" height="199" key="GridCell.Tab.1.bottom" timestamp="1597688238570">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -186,7 +186,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/nreinas.py</url>
-          <line>8</line>
+          <line>9</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>

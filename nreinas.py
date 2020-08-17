@@ -1,14 +1,16 @@
 import verificacion
 
 soluciones=[]
+numi=0
 
 def nReinas(nr, k, col, diag45, diag135, sol, num):
-
+    global numi
     global soluciones
     if k == nr:
 
         soluciones+=sol
-        print(sol)
+        print("sol ", numi, ": ", sol)
+        numi+=1
 
     else:
         for j in range(1,nr+1):
