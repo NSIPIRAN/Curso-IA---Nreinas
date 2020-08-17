@@ -1,15 +1,12 @@
 import verificacion
-import interfazlab
+
 
 def nReinas(nr, k, col, diag45, diag135, sol,num):
 
     if k == nr:
         print(sol)
-
-
-
+        print
         # soluciones[num]=sol
-        #
         # interfazlab.tablero.setSolu(sol)
     else:
         for j in range(1,nr+1):
